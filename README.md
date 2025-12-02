@@ -41,11 +41,11 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
 
 2. Ferramentas (Python)
 
-Pandas ->	Limpeza, manipulação e categorização dos dados.
+    Pandas ->	Limpeza, manipulação e categorização dos dados.
 
-Matplotlib / Seaborn -> Geração de gráficos de frequência e proporção de risco.
+    Matplotlib / Seaborn -> Geração de gráficos de frequência e proporção de risco.
 
-SciPy.stats -> Validação estatística (função chi2_contingency).
+    SciPy.stats -> Validação estatística (função chi2_contingency).
 
 
 
