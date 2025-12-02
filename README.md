@@ -59,12 +59,14 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
      
     4 - Validação Estatística: Aplicação do Teste de Qui-quadrado para testar a independência.
 
+4. Conclusão Estatística
 
+O teste de Qui-quadrado resultou em um p-valor < 0,05 para as variáveis analisadas, permitindo rejeitar a hipótese nula de independência.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Resultado:
 
-
-
-
+A correlação entre as condições ambientais e a gravidade dos acidentes é estatisticamente relevante.
 
 
