@@ -39,6 +39,14 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
   -	Período: Dados de acidentes de 2024 (filtrados para a Região Nordeste).
   -	Variáveis Chave: gravidade, condicao_metereologica, fase_do_dia.
 
+2. Ferramentas (Python)
+   
+Biblioteca	Finalidade
+Pandas ->	Limpeza, manipulação e categorização dos dados.
+Matplotlib / Seaborn -> Geração de gráficos de frequência e proporção de risco.
+SciPy.stats -> Validação estatística (função chi2_contingency).
+
+
 
 
 
