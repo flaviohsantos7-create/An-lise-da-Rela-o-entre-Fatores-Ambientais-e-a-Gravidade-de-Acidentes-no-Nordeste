@@ -31,7 +31,7 @@ Metodologia e Pipeline de Dados:
 
 O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariamente em Python, utilizando o Jupyter Notebook (Script_analises_Nordeste.ipynb).
 
-  1. Fonte de Dados
+1. Fonte de Dados
      
   -	Origem: Dados Abertos Oficiais da Polícia Rodoviária Federal (PRF).
   -	Período: Dados de acidentes de 2024 (filtrados para a Região Nordeste).
