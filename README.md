@@ -62,7 +62,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
     4 - Validação Estatística: Aplicação do Teste de Qui-quadrado para testar a independência.
    
 
-5. Conclusão Estatística
+4. Conclusão Estatística
 
 O teste de Qui-quadrado resultou em um p-valor < 0,05 para as variáveis analisadas, permitindo rejeitar a hipótese nula de independência.
 
