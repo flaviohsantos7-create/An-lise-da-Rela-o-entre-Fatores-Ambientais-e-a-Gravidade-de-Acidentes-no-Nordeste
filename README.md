@@ -41,6 +41,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
       
     -	Variáveis Chave: gravidade, condicao_metereologica, fase_do_dia.
       
+      
 
 2. Ferramentas (Python)
 
@@ -49,6 +50,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
     Matplotlib / Seaborn -> Geração de gráficos de frequência e proporção de risco.
 
     SciPy.stats -> Validação estatística (função chi2_contingency).
+   
    
 
 3. Passos da Análise:
@@ -60,6 +62,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
     3 - Análise Descritiva: Geração de gráficos para visualizar a distribuição da gravidade em função do clima e da fase do dia.
      
     4 - Validação Estatística: Aplicação do Teste de Qui-quadrado para testar a independência.
+   
    
 
 4. Conclusão Estatística
