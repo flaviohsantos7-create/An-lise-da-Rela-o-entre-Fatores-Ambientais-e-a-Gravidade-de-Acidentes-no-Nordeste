@@ -41,9 +41,9 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
       
     -	Variáveis Chave: gravidade, condicao_metereologica, fase_do_dia.
       
-      
+    Link Base de dados: https://drive.google.com/drive/folders/185CW-zfaanF000Gh5sH2hcYK_b3De5qv
 
-2. Ferramentas (Python)
+3. Ferramentas (Python)
 
     Pandas ->	Limpeza, manipulação e categorização dos dados.
 
@@ -53,7 +53,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
    
    
 
-3. Passos da Análise:
+4. Passos da Análise:
    
     1 - Importação e Filtragem: Carregamento do dataset e seleção de acidentes na Região Nordeste.
   	
@@ -65,7 +65,7 @@ O projeto seguiu um rigoroso pipeline de Data Science, implementado majoritariam
    
    
 
-4. Conclusão Estatística
+5. Conclusão Estatística
 
 O teste de Qui-quadrado resultou em um p-valor < 0,05 para as variáveis analisadas, permitindo rejeitar a hipótese nula de independência.
 
